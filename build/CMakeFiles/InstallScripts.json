@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/CppProjects/GameEngine/build/cmake_install.cmake",
+		"C:/CppProjects/GameEngine/build/Engine/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

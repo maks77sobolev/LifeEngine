@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\CppProjects\GameEngine\Engine\Source\Core\engine.cpp">
+      <Filter>Source\Core</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\CppProjects\GameEngine\Engine\Source\Core\engine.h">
+      <Filter>Source\Core</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\CppProjects\GameEngine\Engine\.clang-format" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{420C6B9D-230E-34B9-B8DC-861AA0A629E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Core">
+      <UniqueIdentifier>{B2C31AED-F0BD-381E-A5A0-37967BD7D9BA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

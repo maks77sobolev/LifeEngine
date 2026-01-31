@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LifeExeEngine.dir\\Debug\\main.obj",
+            "outputs": [
+                "LifeExeEngine.dir\\Debug\\main.cpp.ifc.dt.module.json",
+                "LifeExeEngine.dir\\Debug\\main.cpp.ifc.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

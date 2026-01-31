@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CppProjects\\GameEngine\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45540619-5569-308C-BAE5-A4F02BACAB1F}|Engine\\LifeExeEngine.vcxproj|C:\\CppProjects\\GameEngine\\Engine\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575FCCE1-5D94-30BE-83BB-77FD54FFE4EC}|Engine\\LifeExeEngineLib.vcxproj|C:\\CppProjects\\GameEngine\\Engine\\Source\\Core\\engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45540619-5569-308C-BAE5-A4F02BACAB1F}|Engine\\LifeExeEngine.vcxproj|C:\\CppProjects\\GameEngine\\Engine\\Source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575FCCE1-5D94-30BE-83BB-77FD54FFE4EC}|Engine\\LifeExeEngineLib.vcxproj|C:\\CppProjects\\GameEngine\\Engine\\Source\\Core\\engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\CppProjects\\GameEngine\\Engine\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "..\\Engine\\CMakeLists.txt",
+              "ToolTip": "C:\\CppProjects\\GameEngine\\Engine\\CMakeLists.txt",
+              "RelativeToolTip": "..\\Engine\\CMakeLists.txt",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-30T08:21:42.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\CppProjects\\GameEngine\\Engine\\Source\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Source\\main.cpp",
+              "ToolTip": "C:\\CppProjects\\GameEngine\\Engine\\Source\\main.cpp",
+              "RelativeToolTip": "..\\Engine\\Source\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-30T07:59:23.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "engine.cpp",
+              "DocumentMoniker": "C:\\CppProjects\\GameEngine\\Engine\\Source\\Core\\engine.cpp",
+              "RelativeDocumentMoniker": "..\\Engine\\Source\\Core\\engine.cpp",
+              "ToolTip": "C:\\CppProjects\\GameEngine\\Engine\\Source\\Core\\engine.cpp",
+              "RelativeToolTip": "..\\Engine\\Source\\Core\\engine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-30T07:53:58.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "engine.h",
+              "DocumentMoniker": "C:\\CppProjects\\GameEngine\\Engine\\Source\\Core\\engine.h",
+              "RelativeDocumentMoniker": "..\\Engine\\Source\\Core\\engine.h",
+              "ToolTip": "C:\\CppProjects\\GameEngine\\Engine\\Source\\Core\\engine.h",
+              "RelativeToolTip": "..\\Engine\\Source\\Core\\engine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-30T07:51:42.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LifeExeEngineLib.dir\\Release\\engine.obj",
+            "outputs": [
+                "LifeExeEngineLib.dir\\Release\\"
+            ],
+            "requires": []
+        }
+    ]
+}
